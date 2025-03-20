@@ -5,7 +5,7 @@
 **Group 4**
 
 ## Team Members
-1. [Vivek Murugulla][vcm79503](https://github.com/vcm79503/Project1/edit/main/README.md)
+1. [Vivek Murugulla][vcm79503](https://github.com/vcm79503/4610-Project-1/blob/main/README.md)
 2. [Sejal Arora][sejalarora714](https://github.com/sejalarora714/project-1/edit/main/README.md)
 3. [Angie Lin][aangielin](https://github.com/aangielin/project-one/edit/main/README.md)
 4. [Alyssa Luangxay][alyssaxlu](https://github.com/alyssaxlu/project1/blob/main/README.md)
