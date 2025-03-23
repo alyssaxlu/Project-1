@@ -6,8 +6,8 @@
 
 ## Team Members
 1. [Vivek Murugulla][vcm79503](https://github.com/vcm79503/4610-Project-1/blob/main/README.md)
-2. [Sejal Arora][sejalarora714]
-3. [Angie Lin][aangielin]
+2. [Sejal Arora][sejalarora714](https://github.com/sejalarora714/PROJECT1/blob/main/README.md)
+3. [Angie Lin][aangielin](https://github.com/aangielin/PROJECT1/blob/main/README.md)
 4. [Alyssa Luangxay][alyssaxlu](https://github.com/alyssaxlu/Project-1/edit/main/README.md)
 5. [Robert Anthony][ra14858](https://github.com/robertanthony23/Project1/blob/main/README.md)
 
